@@ -1,2 +1,3 @@
 # ai_basic
-인기초 수업 내용
+사이트 링크
+https://avante-n-build-balance.lovable.app/
